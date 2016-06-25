@@ -1,3 +1,8 @@
+
+Working version for testing
+TRL 22 Jun 2016  ver 1.0b
+
+
 Single Channel LoRaWAN Gateway
 ==============================
 This repository contains a proof-of-concept implementation of a single
