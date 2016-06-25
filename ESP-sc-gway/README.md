@@ -1,6 +1,7 @@
 
 Working version for testing
-TRL 22 Jun 2016  ver 1.0b
+
+TRL 7 Jun 2016  ver 1.2a
 
 
 Single Channel LoRaWAN Gateway
